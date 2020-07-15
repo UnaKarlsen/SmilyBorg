@@ -14,9 +14,10 @@ I currently run a Minecraft server with a few friends and some of us occasionall
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm originally from Durban, South Africa but moved to Cape Town in October 2014.
 
-- [🎬](https://www.youtube.com/unakarlsen)
-- [📷](https://www.instagram.com/unakarlsen/)
-- [👩](https://www.facebook.com/Una-Karlsen-281583519190225/)
-- [🐤](https://twitter.com/smilyborg/)
-- [🕹](https://www.twitch.tv/unakarlsen")
-- [🐙](https://github.com/SmilyBorg/)
+### Links
+- [🎬 Youtube](https://www.youtube.com/unakarlsen)
+- [📷 Instagram](https://www.instagram.com/unakarlsen/)
+- [👩 Facebook](https://www.facebook.com/Una-Karlsen-281583519190225/)
+- [🐤 Twitter](https://twitter.com/smilyborg/)
+- [🕹 Twitch](https://www.twitch.tv/unakarlsen")
+- [🐙 Github](https://github.com/SmilyBorg/)
