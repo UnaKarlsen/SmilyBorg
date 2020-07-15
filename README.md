@@ -8,7 +8,7 @@ I currently run a Minecraft server with a few friends and some of us occasionall
 
 - 🔭 I’m currently working on building and maintaining a Minecraft server and community while battling a severe cronic illness.
 - 🌱 I’m currently learning Unreal Engine.
-- 👯 I’m looking to collaborate on video contect creation.
+- 👯 I’m looking to collaborate on video content creation.
 - 💬 Ask me about Docker and Linux. This was my bread and butter for many years and I still enjoy tinkering with it in my spare time.
 - 📫 How to reach me: I'm prety easy to find. Just google my name and you'll find me. I'll post links below soon.
 - 😄 Pronouns: She/Her
