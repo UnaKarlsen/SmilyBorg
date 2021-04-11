@@ -19,6 +19,6 @@ I currently run a Minecraft server with a few friends and some of us occasionall
 - [📷 Instagram](https://www.instagram.com/unakarlsen/)
 - [👩 Facebook](https://www.facebook.com/Una-Karlsen-281583519190225/)
 - [🐤 Twitter](https://twitter.com/smilyborg/)
-- [🕹 Twitch](https://www.twitch.tv/unakarlsen")
+- [🕹 Twitch](https://www.twitch.tv/unakarlsen)
 - [🐙 Github](https://github.com/SmilyBorg/)
 
