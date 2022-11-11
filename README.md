@@ -17,5 +17,5 @@ I enjoy creative pursuits. For most of my life this has been tinkering with prog
 - [📷 Instagram](https://www.instagram.com/unakarlsen/)
 - [👩 Facebook](https://www.facebook.com/Una-Karlsen-281583519190225/)
 - [🐤 Twitter](https://twitter.com/smilyborg/)
-- [🐘 Mastodon](https://mastodon.online/@UnaKarlsen)
+- [🐘 Mastodon](https://tech.lgbt/@UnaKarlsen)
 - [🐙 Github](https://github.com/SmilyBorg/)
