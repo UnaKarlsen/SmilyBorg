@@ -13,6 +13,7 @@ I enjoy creative pursuits. For most of my life this has been tinkering with prog
 - ⚡ Fun fact: I'm originally from Durban, South Africa but moved to Cape Town in October 2014.
 
 ### Links
+- [📜 Blog](https://unakarlsen.com)
 - [🎬 Youtube](https://www.youtube.com/unakarlsen)
 - [📷 Instagram](https://www.instagram.com/unakarlsen/)
 - [👩 Facebook](https://www.facebook.com/Una-Karlsen-281583519190225/)
